@@ -17,6 +17,7 @@
 	export VISUAL=vim
 
 source ~/dotfiles/zsh/plugins/fixls.zsh
+source ~/dotfiles/zsh/sshpath.sh
 
 #Functions
 	# Loop a command and show the output in vim
